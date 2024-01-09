@@ -1,6 +1,6 @@
 # Hello, World!
 
-*Avid PHP developer, node.js enthusiast. *
+* Avid PHP developer, node.js enthusiast. Graphic designer in past life. *
 
 I've started my journey as a graphics designer, working in product design and branding. Then moved to web design, after which graduated BSc in Computer Sciences with Computer Graphics speciality. Since then dug into prepress and development (applications, frameworks).
 
